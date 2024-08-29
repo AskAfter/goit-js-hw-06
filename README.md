@@ -1,2 +1,2 @@
-# goit-js-hw-05
+# goit-js-hw-06
 first javascript project
